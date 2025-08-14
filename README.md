@@ -2,6 +2,10 @@
 
 I am `kuprum`, an experienced Web3 security researcher with main areas of expertise being L1 (EVM & Cosmos SDK chains), cross-chain communication (IBC / Bridges), complex infrastructure projects. Currently an independent security researcher. Previously worked at various companies, including being a Lead Web3 auditor in an audit company, also have experience in Web2 security, testing, and verification.
 
+In my audits I deliver you the _highest quiality work_ above everything, and also tend to find severe, but hard/rare bugs that most others miss. Please feel free to browse my portfolio below.
+
+To order a solo audit with me please feel free to send a DM via [x/kuprumxyz](https://x.com/kuprumxyz) or [t.me/kuprumxyz](https://t.me/kuprumxyz).
+
 ## Audit porfolio
 
 | Begin Month | Project | Category  | Platform | Provider |
@@ -19,4 +23,6 @@ I am `kuprum`, an experienced Web3 security researcher with main areas of expert
 | 2024-03 | 🥉 in [RadicalxChange contest](https://audits.sherlock.xyz/contests/191?filter=results) | Auctions | Solidity | Sherlock |
 | 2024-02 | 🥇 in [UniStaker competition](https://code4rena.com/audits/2024-02-unistaker-infrastructure) (CodeWasp team) | Staking, Governance | Solidity | Code4rena |
 
-Before that I've done dozens of audits with an audit company with the main focus on Cosmos SDK / IBC / Cross-chain / CosmWasm / Solidity.
+Before that I've done dozens of audits as a Lead Auditor in a Web3 audit company with the main focus on Cosmos SDK / IBC / Cross-chain / CosmWasm / Solidity.
+
+More before that I've done a PhD in formal verification, and worked in various companies as a developer.
