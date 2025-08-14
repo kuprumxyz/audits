@@ -4,7 +4,7 @@ I am `kuprum`, an experienced Web3 security researcher with main areas of expert
 
 In my audits I deliver you the _highest quiality work_ above everything, and also tend to find severe, but hard/rare bugs that most others miss. Please feel free to browse my portfolio below, and also at [audits.sherlock.xyz/watson/kuprum](https://audits.sherlock.xyz/watson/kuprum) or [cantina.xyz/u/kuprum](https://cantina.xyz/u/kuprum).
 
-To order a solo audit with me please feel free to send a DM via [x/kuprumxyz](https://x.com/kuprumxyz) or [t.me/kuprumxyz](https://t.me/kuprumxyz).
+To book a solo audit with me please feel free to send a DM via [x/kuprumxyz](https://x.com/kuprumxyz) or [t.me/kuprumxyz](https://t.me/kuprumxyz).
 
 ## Audit porfolio
 
