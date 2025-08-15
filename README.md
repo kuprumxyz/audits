@@ -1,10 +1,10 @@
-# Audits
+# Kuprum's Audits
 
 I am `kuprum`, an experienced Web3 security researcher with main areas of expertise being L1 (EVM & Cosmos SDK chains), cross-chain communication (IBC / Bridges), complex infrastructure projects. Currently an independent security researcher. Previously worked at various companies, including being a Lead Web3 auditor in an audit company, also have experience in Web2 security, testing, and verification.
 
-In my audits I deliver you the _highest quiality work_ above everything, and also tend to find severe, but hard/rare bugs that most others miss. Please feel free to browse my portfolio below, and also at [audits.sherlock.xyz/watson/kuprum](https://audits.sherlock.xyz/watson/kuprum) or [cantina.xyz/u/kuprum](https://cantina.xyz/u/kuprum).
+Like copper (Cuprum in Latin) — probably the most versatile, essential, and reliable metal we have today — I am going to bring a lot for the success and security of your project. In my audits I deliver you the _highest quiality work_, and also tend to find severe but hard/rare bugs that most others miss. Please feel free to browse my portfolio below, and also at [audits.sherlock.xyz/watson/kuprum](https://audits.sherlock.xyz/watson/kuprum) or [cantina.xyz/u/kuprum](https://cantina.xyz/u/kuprum). 
 
-To book a solo audit with me please feel free to send a DM via [x/kuprumxyz](https://x.com/kuprumxyz) or [t.me/kuprumxyz](https://t.me/kuprumxyz).
+To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz) or [t.me/kuprumxyz](https://t.me/kuprumxyz).
 
 ## Audit porfolio
 
