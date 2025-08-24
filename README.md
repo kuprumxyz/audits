@@ -11,7 +11,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
 <table>
   <thead>
     <tr>
-      <th>Month / Duration</th>
+      <th>Begin / Duration</th>
       <th>Project</th>
       <th>Category</th>
       <th>Language / Framework</th>
@@ -69,7 +69,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-12</td>
+      <td>2024-12 / 4&nbsp;weeks</td>
       <td>14th in <a href="https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58/leaderboard">Story Protocol competition</a></td>
       <td>Cosmos/Geth L1, BFT Consensus</td>
       <td>Cosmos SDK / EVM / Go / Solidity</td>
@@ -105,7 +105,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-10</td>
+      <td>2024-10 / 1&nbsp;week</td>
       <td>🥈in <a href="https://audits.sherlock.xyz/contests/561?filter=results">Predict.Fun contest</a></td>
       <td>Lending, Prediction market</td>
       <td>Solidity</td>
@@ -122,7 +122,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-09</td>
+      <td>2024-09 / 2&nbsp;weeks</td>
       <td>🥇in <a href="https://audits.sherlock.xyz/contests/468?filter=results">Flayer contest</a></td>
       <td>NFTs, Uniswap V4</td>
       <td>Solidity</td>
@@ -140,7 +140,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-08</td>
+      <td>2024-08 / 2&nbsp;weeks</td>
       <td>🥉in <a href="https://code4rena.com/audits/2024-08-phi">Phi competition</a></td>
       <td>Cross-chain, Identity management</td>
       <td>Solidity</td>
@@ -158,7 +158,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-08</td>
+      <td>2024-08 / 0.5&nbsp;weeks</td>
       <td>4th in <a href="https://audits.sherlock.xyz/contests/516?filter=results">Winnables Raffles contest</a></td>
       <td>Cross-chain</td>
       <td>Solidity / Chainlink VRF & CCIP</td>
@@ -175,8 +175,8 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-07</td>
-      <td>9th in <a href="https://code4rena.com/audits/2024-07-optimism-superchain">Optimism Superchain competition</a></td>
+      <td>2024-07 / 2&nbsp;weeks</td>
+      <td>8th in <a href="https://code4rena.com/audits/2024-07-optimism-superchain">Optimism Superchain competition</a></td>
       <td>L1/L2, Cross-chain, Dispute games</td>
       <td>Optimism / Solidity</td>
       <td>Code4rena</td>
@@ -193,7 +193,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-03</td>
+      <td>2024-03 / 0.5&nbsp;weeks</td>
       <td>🥉 in <a href="https://audits.sherlock.xyz/contests/191?filter=results">RadicalxChange contest</a></td>
       <td>Auctions</td>
       <td>Solidity</td>
@@ -210,8 +210,8 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
       </td>
     </tr>
     <tr>
-      <td>2024-02</td>
-      <td>🥇 in <a href="https://code4rena.com/audits/2024-02-unistaker-infrastructure">UniStaker competition</a> (team CodeWasp)</td>
+      <td>2024-02 / 2&nbsp;weeks</td>
+      <td>🥇 in <a href="https://code4rena.com/audits/2024-02-unistaker-infrastructure">UniStaker Infrastructure competition</a> (team CodeWasp)</td>
       <td>Staking, Governance</td>
       <td>Solidity</td>
       <td>Code4rena</td>
