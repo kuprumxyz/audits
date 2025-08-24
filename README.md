@@ -176,7 +176,7 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
     </tr>
     <tr>
       <td>2024-07 / 2&nbsp;weeks</td>
-      <td>8th in <a href="https://code4rena.com/audits/2024-07-optimism-superchain">Optimism Superchain competition</a></td>
+      <td>9th in <a href="https://code4rena.com/audits/2024-07-optimism-superchain">Optimism Superchain competition</a></td>
       <td>L1/L2, Cross-chain, Dispute games</td>
       <td>Optimism / Solidity</td>
       <td>Code4rena</td>
