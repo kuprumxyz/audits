@@ -8,11 +8,11 @@ Our judging has attracted numerous praise from fellow SRs, see e.g. [this](https
 and [this](https://x.com/0xhammadghazi/status/1927356751818436648) posts on X, and also the below screenshots from Discord:
 
 <details>
-<summary>Screenhot 1 (click to show)</summary>
-        
+        <summary>Screenhot 1 (click to show)</summary>
+        <img src="https://raw.githubusercontent.com/kuprumxyz/audits/main/judging/Mighty-Judging-Praise1.png"/>
 </details>
 
 <details>
-<summary>Screenhot 2 (click to show)</summary>
-        
+        <summary>Screenhot 2 (click to show)</summary>
+        <img src="https://raw.githubusercontent.com/kuprumxyz/audits/main/judging/Mighty-Judging-Praise2.png"/> 
 </details>
