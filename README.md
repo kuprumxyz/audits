@@ -252,3 +252,17 @@ and [this](https://x.com/0xhammadghazi/status/1927356751818436648) posts on X, a
         <img src="https://raw.githubusercontent.com/kuprumxyz/audits/main/judging/Mighty-Judging-Praise2.png"/> 
 </details>
 
+## Formal Methods, Web2 Security & Other Relevant Experience
+
+Over the course of my pre-Web3 security career I've collected a number of experiences that are very useful in my current work:
+- I have done a PhD in formal verification, namely in verification of concurrent programs. I've worked with a number of model checkers, and developed my own, original approach to model checking, as well as a number of model checking tools.
+  - _Why is this relevant_: when I look at the code, a kind of a built-in model checker runs in my head. I am constantly asking myself the "what if" and "where/who else" questions, i.e. do what a highly specialized model checker would do, combined with all power of human expertise.
+  - Besides that I of course understand well both the whole potential, but also _all limitations_ of formal methods: state explosion is not empty words for me; I've been combatting it for a number of years. I can provide you a professional consultation on organizing testing & verification for your project.
+- I have worked in Web2 security before:
+  - Developed a commercial Windows kernel space security driver
+  - Developed a commercial cloud-based firewall with a large company
+  - Taught an application security course at a university
+  - _Why is this relevant_: Security is security no matter whether it's Web2 or Web3. It's the same kind of mindset, the same approaches. I can directly transfer many of my experiences in Web2 security into the Web3 space. 
+- I have worked as a developer in a number of companies over a number of years; worked mainly with such languages as C++, Haskell, Ocaml, Python, Rust. Also was leading small dev teams over the course of my career.
+  - _Why is this relevant_: I know all technicalities of being a developer, know the "bread and butter" of the profession.
+  - I can speak developer's language: I can communicate seamlessly and effeciently, without there being an SR/developer barrier.
