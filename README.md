@@ -252,7 +252,7 @@ and [this](https://x.com/0xhammadghazi/status/1927356751818436648) posts on X, a
         <img src="https://raw.githubusercontent.com/kuprumxyz/audits/main/judging/Mighty-Judging-Praise2.png"/> 
 </details>
 
-## Formal Methods, Web2 Security & Other Relevant Experience
+## Formal methods, Web2 security & other relevant experience
 
 Over the course of my pre-Web3 security career I've collected a number of experiences that are very useful in my current work:
 - I have done a PhD in formal verification, namely in verification of concurrent programs. I've worked with a number of model checkers, and developed my own, original approach to model checking, as well as a number of model checking tools.
