@@ -229,9 +229,6 @@ To book a solo audit with me send a DM via [x/kuprumxyz](https://x.com/kuprumxyz
   </tbody>
 </table>
 
-Before that I've done dozens of audits as a Lead Auditor in a Web3 security company with the main focus on Cosmos SDK / IBC / Cross-chain / CosmWasm / Solidity.
-
-More before that I've done a PhD in formal verification, and worked at various companies as a developer.
 
 ## Judging experience
 
