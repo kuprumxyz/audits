@@ -256,7 +256,7 @@ Over the course of my pre-Web3 security career I've collected a number of experi
   - _Why is this relevant_: when I look at the code, a kind of a built-in model checker runs in my head. I am constantly asking myself the "what if" and "where/who else" questions, i.e. do what a highly specialized model checker would do, combined with all power of human expertise.
   - Besides that I of course understand well both the whole potential, but also _all limitations_ of formal methods: state explosion is not empty words for me; I've been combatting it for a number of years. I can provide you a professional consultation on organizing testing & verification for your project.
 - I have worked in Web2 security before:
-  - Studied cryptograhy & security
+  - Studied cryptography & security
   - Developed commercial security software (e.g. a cloud-based firewall)
   - Taught an application security course at a university
   - _Why is this relevant_: Security is security no matter whether it's Web2 or Web3. It's the same kind of mindset, the same approaches. I can directly transfer many of my experiences in Web2 security into the Web3 space. 
